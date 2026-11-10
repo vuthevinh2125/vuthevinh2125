@@ -72,6 +72,21 @@ I work across two layers most people keep separate. By day I help run the networ
 **Also**<br>
 <img src="https://skillicons.dev/icons?i=java,php,mysql&theme=dark" alt="Java, PHP, MySQL"> &nbsp; Java · PHP · SQL Server
 
+## Activity
+
+<img src="profile-3d-contrib/profile-3d-red.svg" alt="3D contribution graph of vuthevinh2125 over the last year" width="100%">
+
+<sub>Redrawn every day by a GitHub Action in this repo.</sub>
+
+## Contact
+
+<p>
+  <a href="https://vuthevinh2125.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="Portfolio" title="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vinh-v%C5%A9-533610304/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" title="LinkedIn"></a>&nbsp;
+  <a href="mailto:vinhvu20102005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" title="vinhvu20102005@gmail.com"></a>&nbsp;
+  <a href="https://github.com/vuthevinh2125"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub"></a>
+</p>
+
 ---
 
 <sub>Song ngữ? Portfolio có cả tiếng Việt: <a href="https://vuthevinh2125.github.io/portfolio/#vi">vuthevinh2125.github.io/portfolio/#vi</a></sub>
