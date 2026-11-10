@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://vuthevinh2125.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-e3242b?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/vinh-v%C5%A9-533610304/"><img src="https://img.shields.io/badge/LinkedIn-0b0a0c?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vinh-v%C5%A9-th%E1%BA%BF-533610304/"><img src="https://img.shields.io/badge/LinkedIn-0b0a0c?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vinhvu20102005@gmail.com"><img src="https://img.shields.io/badge/vinhvu20102005@gmail.com-0b0a0c?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -95,7 +95,7 @@ I work across two layers most people keep separate. By day I help run the networ
 
 <p>
   <a href="https://vuthevinh2125.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="Portfolio" title="Portfolio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/vinh-v%C5%A9-533610304/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" title="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vinh-v%C5%A9-th%E1%BA%BF-533610304/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" title="LinkedIn"></a>&nbsp;
   <a href="mailto:vinhvu20102005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" title="vinhvu20102005@gmail.com"></a>&nbsp;
   <a href="https://github.com/vuthevinh2125"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub"></a>
 </p>
