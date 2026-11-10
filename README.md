@@ -22,7 +22,7 @@ I work across two layers most people keep separate. By day I help run the networ
       <h3><a href="https://vuthevinh2125.github.io/netsentinel/">NetSentinel: an AI-assisted mini SOC</a></h3>
       Watches a simulated 54-host company network, catches attacks with rules, an Isolation Forest and a beaconing detector, chains alerts into incidents, and has a Claude analyst investigate each one with read-only tools, including saying when it is a false alarm.
       <br><br>
-      <b>7/7</b> MITRE-labelled attacks in the lab · <b>14/18</b> infected host-days caught on <b>real</b> malware traffic (Trickbot, Dridex, Kovter, Bladabindi) · <b>10/10</b> correct AI verdicts (EN + VI)
+      <b>7/7</b> MITRE-labelled attacks in the lab · <b>14/18</b> infected host-days caught on <b>real</b> Windows malware traffic · <b>16/20</b> IoT botnets in a <b>blind test</b> (Mirai, Hajime, Okiru…) · <b>10/10</b> correct AI verdicts (EN + VI)
       <br><br>
       <code>Python</code> <code>scikit-learn</code> <code>Zeek</code> <code>Claude API</code> <code>Tool use</code> <code>Agent evals</code> <code>MITRE ATT&amp;CK</code> <code>Flask</code>
       <br>
