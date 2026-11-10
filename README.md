@@ -6,7 +6,7 @@
   <a href="mailto:vinhvu20102005@gmail.com"><img src="https://img.shields.io/badge/vinhvu20102005@gmail.com-0b0a0c?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I work across two layers most people keep separate. By day I help run the network that carries national broadcast data at **Vietnam Television (VTV)**. In my own projects I build **AI agents, data pipelines, 3D web apps and games**, and I measure every one of them.
+I work across two layers most people keep separate. By day I help run the network that carries national broadcast data at **Vietnam Television (VTV)**. In my own projects I build **AI agents, security tooling, data pipelines, 3D web apps and games**, and I measure every one of them.
 
 - Final-year **BSc Computer Science, University of Greenwich**, GPA 3.62 / 4.0
 - **Network administration** at VTV Technology and Transmission Center, since 06/2025
@@ -16,6 +16,19 @@ I work across two layers most people keep separate. By day I help run the networ
 ## Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://vuthevinh2125.github.io/netsentinel/"><img src="assets/netsentinel-soc.webp" alt="NetSentinel SOC console: seven-day timeline, incident queue and AI analyst report"></a>
+      <h3><a href="https://vuthevinh2125.github.io/netsentinel/">NetSentinel: an AI-assisted mini SOC</a></h3>
+      Watches a simulated 54-host company network, catches attacks with rules, an Isolation Forest and a beaconing detector, chains alerts into incidents, and has a Claude analyst investigate each one with read-only tools, including saying when it is a false alarm.
+      <br><br>
+      <b>7/7</b> MITRE-labelled attacks detected · <b>0.4</b> false alerts per day across 5 networks · <b>10/10</b> correct AI verdicts (EN + VI) · <b>16</b> tests with CI
+      <br><br>
+      <code>Python</code> <code>scikit-learn</code> <code>Claude API</code> <code>Tool use</code> <code>Agent evals</code> <code>MITRE ATT&amp;CK</code> <code>Flask</code>
+      <br>
+      <a href="https://vuthevinh2125.github.io/netsentinel/">Live demo</a> · <a href="https://github.com/vuthevinh2125/netsentinel">Source</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/vuthevinh2125/VietUrban_Simulation_Team"><img src="assets/vieturban-store.webp" alt="VietUrban Supermarket Simulator: store level 10 with a cashier and a customer"></a>
