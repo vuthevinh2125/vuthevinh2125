@@ -8,7 +8,7 @@
 
 I work across two layers most people keep separate. By day I help run the network that carries national broadcast data at **Vietnam Television (VTV)**. In my own projects I build **AI agents, security tooling, data pipelines, 3D web apps and games**, and I measure every one of them.
 
-- Final-year **BSc Computer Science, University of Greenwich**, GPA 3.62 / 4.0
+- **BSc Computer Science, University of Greenwich** (08/2023 – 10/2026, graduated), GPA 3.62 / 4.0
 - **Network administration** at VTV Technology and Transmission Center, since 06/2025
 - **Microsoft Ambassador** · **CCNA** · Top 20 nationwide, **FPT Edu Hackathon**
 - Open to **AI engineering and data** roles in Hanoi or remote
