@@ -11,7 +11,7 @@ I work across two layers most people keep separate. By day I help run the networ
 - **BSc Computer Science, University of Greenwich** (08/2023 – 10/2026, graduated), GPA 3.62 / 4.0
 - **Network administration** at VTV Technology and Transmission Center, since 06/2025
 - **Microsoft Ambassador** · **CCNA** · Top 20 nationwide, **FPT Edu Hackathon**
-- Open to **AI engineering and data** roles in Hanoi or remote
+- Open to **AI engineering, security and data** roles in Hanoi or remote
 
 ## Featured work
 
@@ -20,11 +20,11 @@ I work across two layers most people keep separate. By day I help run the networ
     <td colspan="2" valign="top">
       <a href="https://vuthevinh2125.github.io/netsentinel/"><img src="assets/netsentinel-soc.webp" alt="NetSentinel SOC console: seven-day timeline, incident queue and AI analyst report"></a>
       <h3><a href="https://vuthevinh2125.github.io/netsentinel/">NetSentinel: an AI-assisted mini SOC</a></h3>
-      Watches a simulated 54-host company network, catches attacks with rules, an Isolation Forest and a beaconing detector, chains alerts into incidents, and has a Claude analyst investigate each one with read-only tools, including saying when it is a false alarm.
+      Watches a simulated 54-host company network, catches attacks with rules, an Isolation Forest and a beaconing detector, chains alerts into incidents, and has an LLM analyst (Claude, Gemini or any OpenAI-compatible model) investigate each one with read-only tools and a cited RAG knowledge base of MITRE ATT&CK and Sigma rules, including saying when it is a false alarm.
       <br><br>
-      <b>7/7</b> MITRE-labelled attacks in the lab · <b>14/18</b> infected host-days caught on <b>real</b> Windows malware traffic · <b>16/20</b> IoT botnets in a <b>blind test</b> (Mirai, Hajime, Okiru…) · <b>10/10</b> correct AI verdicts (EN + VI)
+      <b>7/7</b> MITRE-labelled attacks in the lab · <b>14/18</b> infected host-days caught on <b>real</b> Windows malware traffic · <b>16/20</b> IoT botnets in a <b>blind test</b> (Mirai, Hajime, Okiru…) · <b>1,602</b>-document RAG, right tactic in the top 5 for <b>100%</b> of real alerts
       <br><br>
-      <code>Python</code> <code>scikit-learn</code> <code>Zeek</code> <code>Claude API</code> <code>Tool use</code> <code>Agent evals</code> <code>MITRE ATT&amp;CK</code> <code>Flask</code>
+      <code>Python</code> <code>scikit-learn</code> <code>Zeek</code> <code>Claude API</code> <code>Gemini API</code> <code>Tool use</code> <code>RAG</code> <code>Agent evals</code> <code>MITRE ATT&amp;CK</code> <code>Sigma</code>
       <br>
       <a href="https://vuthevinh2125.github.io/netsentinel/">Live demo</a> · <a href="https://github.com/vuthevinh2125/netsentinel">Source</a>
     </td>
@@ -33,11 +33,11 @@ I work across two layers most people keep separate. By day I help run the networ
     <td width="50%" valign="top">
       <a href="https://github.com/vuthevinh2125/VietUrban_Simulation_Team"><img src="assets/vieturban-store.webp" alt="VietUrban Supermarket Simulator: store level 10 with a cashier and a customer"></a>
       <h3><a href="https://github.com/vuthevinh2125/VietUrban_Simulation_Team">VietUrban Supermarket Simulator</a></h3>
-      First-person management game set on a Vietnamese street: run the store, deliver by motorbike, deal with weather, traffic and nine kinds of AI agents.
+      Final year project I led (team of two). A first-person management game in a Hanoi-style district built in code: run the store with a demand-forecasting Restock Advisor, deliver through motorbike traffic, survive road and night events, in five languages.
       <br><br>
-      <b>+61%</b> average FPS · <b>×18</b> 1% lows in storms · <b>38/38</b> automated tests · <b>23</b> bugs fixed at root cause
+      <b>436</b> commits (358 mine) · <b>41,000+</b> lines of C# · <b>75+</b> automated tests · <b>+61%</b> average FPS · <b>5</b> languages
       <br><br>
-      <code>Unity 6</code> <code>C#</code> <code>URP</code> <code>NavMesh</code> <code>Utility AI</code> <code>Unity Test Framework</code>
+      <code>Unity 6</code> <code>C#</code> <code>URP</code> <code>NavMesh</code> <code>Utility AI</code> <code>Demand forecasting</code> <code>Localisation</code> <code>Unity Test Framework</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://vuthevinh2125.github.io/giza-pyramid-3d/"><img src="assets/giza-cross-section.webp" alt="Giza 3D: North-South cross-section with labelled chambers and the AI guide panel"></a>
